@@ -7,3 +7,7 @@ It features a backtracking algorithm to generate all possible words within the g
 
 - Backtracking algorithm for word generation
 - Trie (prefix tree) data structure for efficient vocabulary traversal
+  
+## Usage
+
+1. Clone the repository:
